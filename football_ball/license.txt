@@ -1,0 +1,11 @@
+Model Information:
+* title:	Football Ball
+* source:	https://sketchfab.com/3d-models/football-ball-1a38a86296524f35904eafb0289aeb75
+* author:	hendrickkganyago (https://sketchfab.com/hendrickkganyago)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Football Ball" (https://sketchfab.com/3d-models/football-ball-1a38a86296524f35904eafb0289aeb75) by hendrickkganyago (https://sketchfab.com/hendrickkganyago) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

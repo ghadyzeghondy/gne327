@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cheerleader Girl
+* source:	https://sketchfab.com/3d-models/cheerleader-girl-e7b45ab90e00487f8553e668e1af01a4
+* author:	GregoryEm (https://sketchfab.com/g.matwiejszyn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cheerleader Girl" (https://sketchfab.com/3d-models/cheerleader-girl-e7b45ab90e00487f8553e668e1af01a4) by GregoryEm (https://sketchfab.com/g.matwiejszyn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cylinder
+* source:	https://sketchfab.com/3d-models/cylinder-2a2efbdad92e454cb0c3673cea1d1280
+* author:	HRevollo (https://sketchfab.com/RevolloH)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cylinder" (https://sketchfab.com/3d-models/cylinder-2a2efbdad92e454cb0c3673cea1d1280) by HRevollo (https://sketchfab.com/RevolloH) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

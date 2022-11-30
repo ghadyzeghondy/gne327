@@ -1,0 +1,11 @@
+Model Information:
+* title:	Computer Round
+* source:	https://sketchfab.com/3d-models/computer-round-13b816921c7c4f5f8d09e60116d7e16b
+* author:	Inditrion Dradnon (https://sketchfab.com/dradnon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Computer Round" (https://sketchfab.com/3d-models/computer-round-13b816921c7c4f5f8d09e60116d7e16b) by Inditrion Dradnon (https://sketchfab.com/dradnon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

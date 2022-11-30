@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chair Desk
+* source:	https://sketchfab.com/3d-models/chair-desk-ea343bdbcfb54541936b3c7c7c931c02
+* author:	KevinLeRoux (https://sketchfab.com/KevinLeRoux)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chair Desk" (https://sketchfab.com/3d-models/chair-desk-ea343bdbcfb54541936b3c7c7c931c02) by KevinLeRoux (https://sketchfab.com/KevinLeRoux) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

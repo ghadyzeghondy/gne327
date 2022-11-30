@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Office Table
+* source:	https://sketchfab.com/3d-models/simple-office-table-56f94d0ba1024800b94810e79c07145d
+* author:	Zohaib (4minus1d) (https://sketchfab.com/4minus1D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Office Table" (https://sketchfab.com/3d-models/simple-office-table-56f94d0ba1024800b94810e79c07145d) by Zohaib (4minus1d) (https://sketchfab.com/4minus1D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

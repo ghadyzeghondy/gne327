@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vintage telescope
+* source:	https://sketchfab.com/3d-models/vintage-telescope-11d4fd6435cc4375b8f6427421ca7bab
+* author:	Nudluria (https://sketchfab.com/nudluria)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vintage telescope" (https://sketchfab.com/3d-models/vintage-telescope-11d4fd6435cc4375b8f6427421ca7bab) by Nudluria (https://sketchfab.com/nudluria) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

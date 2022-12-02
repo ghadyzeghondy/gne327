@@ -1,0 +1,11 @@
+Model Information:
+* title:	Telescope
+* source:	https://sketchfab.com/3d-models/telescope-fd6863dd22874707b99b00af620fdfcc
+* author:	sieminskaola (https://sketchfab.com/sieminskaola)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Telescope" (https://sketchfab.com/3d-models/telescope-fd6863dd22874707b99b00af620fdfcc) by sieminskaola (https://sketchfab.com/sieminskaola) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

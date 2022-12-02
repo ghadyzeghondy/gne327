@@ -1,0 +1,11 @@
+Model Information:
+* title:	Computer Table
+* source:	https://sketchfab.com/3d-models/computer-table-1f430f13455146b485f90d0baa627ec7
+* author:	Blender user Srikanth M (https://sketchfab.com/Ani-sri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Computer Table" (https://sketchfab.com/3d-models/computer-table-1f430f13455146b485f90d0baa627ec7) by Blender user Srikanth M (https://sketchfab.com/Ani-sri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Couch
+* source:	https://sketchfab.com/3d-models/couch-495c0176ca274e20a0ce7f2e238f2948
+* author:	Mahli (https://sketchfab.com/Mahli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Couch" (https://sketchfab.com/3d-models/couch-495c0176ca274e20a0ce7f2e238f2948) by Mahli (https://sketchfab.com/Mahli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
